@@ -1,0 +1,5 @@
+C:\Users\xragp\Source\repos\BerlinClock\BerlinClock\obj\Debug\BerlinClock.csprojAssemblyReference.cache
+C:\Users\xragp\Source\repos\BerlinClock\BerlinClock\bin\Debug\BerlinClock.exe
+C:\Users\xragp\Source\repos\BerlinClock\BerlinClock\bin\Debug\BerlinClock.pdb
+C:\Users\xragp\Source\repos\BerlinClock\BerlinClock\obj\Debug\BerlinClock.exe
+C:\Users\xragp\Source\repos\BerlinClock\BerlinClock\obj\Debug\BerlinClock.pdb
